@@ -939,7 +939,7 @@ def babi():
 						Pwv.append(frs+'12345')
 				else:
 					if len(frs)<3:
-						pwv.append(nmf)
+						Pwv.append(nmf)
 					else:
 						Pwv.append(nmf)
 						Pwv.append(frs+'321')
